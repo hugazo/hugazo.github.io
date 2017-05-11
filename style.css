@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	text-decoration: none;
+}
+div {
+	display: block;
+	padding: 20px 0px 20px 0px;
+}
+h1 {
+	color: #F1AE3F;
+	margin: 0px;
+	font-family: 'Baloo'
+}
+p {
+	color: white;
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+#seccion1 {
+	background-color: #a02339;
+	text-align: center;
+}
+#seccion2 {
+	background-color: #158ABE;
+}
+#seccion3 {
+	background-color: black;
+	text-align: right;
+	background: url("cuzco2.jpg");
+	background-size: 100%;
+	padding-bottom: 100px;
+}
+#seccion4 {
+	background-color: white;
+	text-align: center;
+	padding: 50px 0px 0px 0px;
+	font-size: 40px;
+}
+.imgcenter {
+	display: block;
+	margin: auto;
+	width: 100%;
+	max-width: 400px;
+}
+table {
+	margin: auto;
+	font-family: 'Baloo'
+}
+table td {
+	width: 150px;
+	text-align: left;
+}
+th {
+	text-align: center;
+}
